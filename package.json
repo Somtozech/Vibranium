@@ -1,0 +1,19 @@
+{
+  "name": "dscesut",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r <img width=\"300\" height=\"140\"  src=\"https://github.com/kelvinkamau/Vibranium/blob/master/images/vibranium.png\">\r </p>",
+  "main": "service-worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Somtozech/Vibranium.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Somtozech/Vibranium/issues"
+  },
+  "homepage": "https://github.com/Somtozech/Vibranium#readme"
+}
